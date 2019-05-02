@@ -1,0 +1,60 @@
+$user> "number"
+selection:
+
+#####################################################################
+
+ISOTOPE IS A POWERFULL VOIP INTERCEPTOR AND MESSAGE DEBUGGER
+#####################################################################
+ISOTOPE LOG: 
+
+FROM : "SECRETARIA"
+	to "NUMERO VICTIMA"
+	
+MESSAGE: 
+
+GET http_connect	"Chinita estoy abajo ahorita le pregunto no se si salio tu sabes q 
+a veces se va por la torre y no lo veo em_%43% "
+
+GET http_connect "ayer vino la zorrita a recogerlo creo porque se fue apurado cuando paso
+ por aqui amiga"
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+FROM : "NUMERO ANAPAULA"
+	to "SECRETARIA"
+	
+MESSAGE : 
+
+POST http_connect "Mami me avisas cuando vengan a buscarlo porque el dia que fue mi abo 
+estaba nervioso dicen los que le vieron"
+
+POST http_connect "ayer me dijo mi amiguito que entro raro a las computadoras fijate si 
+puedes ver algo de el ahi y de la zorris"
+
+POST http_connect "em_%66% ya sabes que este se mete con cualquier chola que encuentra 
+por donde pase"
+
+POST http_connect "me hablas a mi wsp mas rato, a este no mandes cholita"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+FROM :"YULISSA"
+	to "Numbero desconocido"
+	
+GET http_connect		"gordo avisame cuando lo veas abajo con alguien creo que va a venir su cholita %ns%em_66%
+
+GET http_connect		"ya dspues te voy con tu premio gordito me avisas a mi numero"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+FROM : "unknow number"
+
+	to "YULISSA"
+	
+POST http_connect "ya cholita yo te aviso cuando bajen ahora esta ahi adentro metido por el pasadizo llamando bien jeton"
+
+POST http_connect "$ReplyMessage:ya dspues te voy con tu premio gordito me avisas a mi numero && POST 
+http_connect:"te alistas mañana porque no vendre a chambear, te recojo y nos vamos al de siempre" "
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
